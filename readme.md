@@ -28,7 +28,7 @@ Me chamo Emanuel Leão e atuo no desenvolvimento de APIs robustas e escaláveis 
   <a href="mailto:leaoemanuel4@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="www.linkedin.com/in/emanuel-leão-351489384" target="_blank">
+  <a href="https://www.linkedin.com/in/emanuel-le%C3%A3o-351489384/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
