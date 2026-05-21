@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nestjs,aws,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=ts,nestjs,aws,mysql,postgresql,git" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 
 `Desenvolvedor Backend`
 
-Me chamo Emanuel Leão e atuo no desenvolvimento de APIs robustas e escaláveis utilizando **NestJS** e **TypeScript**. Possuo experiência na modelagem e otimização de bancos de dados relacionais com **MySQL**, integração de serviços em nuvem na **AWS** e controle de versão eficiente com **Git**. Estou em constante evolução.
+Me chamo Emanuel Leão e atuo no desenvolvimento de APIs robustas e escaláveis utilizando **NestJS** e **TypeScript**. Possuo experiência na modelagem e otimização de bancos de dados relacionais com **MySQL** e **PostgreSQL**, integração de serviços em nuvem na **AWS** e controle de versão eficiente com **Git**. Estou em constante evolução.
 
 <br />
 
