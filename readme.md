@@ -1,4 +1,4 @@
- <div align="center">
+  <div align="center">
   <h1>👋 Olá, eu sou o Emanuel Leão</h1>
   <p><strong>Desenvolvedor Backend | TypeScript • NestJS • SQL • Cloud</strong></p>
   
@@ -32,12 +32,12 @@ Também possuo vivência na integração de serviços em nuvem na **AWS** e cont
 > ### 🛢️ Modelagem & Dados
 > <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql" /></a>
 >
-> `PostgreSQL` `MySQL` `SQL Optimization` `Database Design`
+> `PostgreSQL` `MySQL` 
 
 > ### ☁️ Infraestrutura & DevOps
 > <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,git" /></a>
 >
-> `Amazon Web Services (AWS)` `Docker` `CI/CD` `Git & GitHub`
+> `Amazon Web Services (AWS)` `Docker` `Git & GitHub`
 
 ---
 
