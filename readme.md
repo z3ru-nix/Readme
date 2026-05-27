@@ -18,10 +18,10 @@ Me chamo Emanuel Leão e atuo no desenvolvimento de APIs robustas e escaláveis 
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens & Frameworks** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,nestjs" /></a> |
+| **Linguagens & Frameworks** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,nestjs,express,prisma" /></a> |
 | **Bancos de Dados** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgresql" /></a> |
 | **Infraestrutura & Cloud** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker" /></a> |
-| **Ferramentas & Utilitários** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,insomnia" /></a> |
+| **Ferramentas & Utilitários** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" /></a> |
 
 <hr />
 
