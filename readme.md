@@ -1,37 +1,51 @@
- <div align="center">
-  <h1>Emanuel Leão</h1>
-  <p>TypeScript • NestJS • SQL • Cloud</p>
-  <hr />
+<div align="center">
+  <h1>👋 Olá, eu sou o Emanuel Leão</h1>
+  <p><strong>Desenvolvedor Backend | TypeScript • NestJS • SQL • Cloud</strong></p>
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/emanuel-le%C3%A3o-351489384/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:leaoemanuel4@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
 </div>
 
-<br />
+---
 
-`Desenvolvedor Backend`
+### 🚀 Sobre Mim
 
-Me chamo Emanuel Leão e atuo no desenvolvimento de APIs robustas e escaláveis utilizando **NestJS** e **TypeScript**. Possuo experiência na modelagem e otimização de bancos de dados relacionais com **MySQL** e **PostgreSQL**, integração de serviços em nuvem na **AWS** e controle de versão eficiente com **Git**. Estou em constante evolução.
+Sou um desenvolvedor Backend focado em construir APIs robustas, seguras e escaláveis. Minha principal stack envolve **TypeScript** e **NestJS**, com forte experiência na modelagem e otimização de bancos de dados relacionais (**MySQL** e **PostgreSQL**). 
 
-<br />
+Também possuo vivência na integração de serviços em nuvem na **AWS** e containerização com **Docker**, sempre buscando aplicar as melhores práticas de arquitetura e código limpo. Estou em constante evolução e aberto a novos desafios tecnológicos.
 
-<hr />
+---
 
-## 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens & Frameworks** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,nestjs,express,prisma" /></a> |
-| **Bancos de Dados** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgresql" /></a> |
-| **Infraestrutura & Cloud** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker" /></a> |
-| **Ferramentas & Utilitários** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" /></a> |
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nestjs,express,prisma,mysql,postgresql,aws,docker,git" />
+  </a>
+</p>
 
-<hr />
+*   **Linguagens & Frameworks:** TypeScript, NestJS, Express, Prisma ORM
+*   **Bancos de Dados:** MySQL, PostgreSQL
+*   **Infraestrutura & Cloud:** AWS, Docker
+*   **Ferramentas:** Git & GitHub
 
-## 📬 Contato
+
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px" />
+  <img src="https://github-readme-top-langs.vercel.com/api/?username=SEU-USUARIO-DO-GITHUB&layout=compact&langs_count=7&theme=radial" alt="Linguagens mais usadas" height="180px" />
+</p>
+
+---
 
 <div align="center">
-  <a href="mailto:leaoemanuel4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/emanuel-le%C3%A3o-351489384/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <p>💡 <i>"O único modo de fazer um excelente trabalho é amar o que você faz."</i></p>
 </div>
