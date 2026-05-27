@@ -1,16 +1,8 @@
-<div align="center">
+ <div align="center">
   <h1>Emanuel Leão</h1>
   <p>TypeScript • NestJS • SQL • Cloud</p>
   <hr />
 </div>
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nestjs,aws,mysql,postgresql,git" />
-  </a>
-</div>
-
-<hr />
 
 <br />
 
@@ -22,7 +14,18 @@ Me chamo Emanuel Leão e atuo no desenvolvimento de APIs robustas e escaláveis 
 
 <hr />
 
-## Contato
+## 🛠️ Tecnologias e Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens & Frameworks** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,nestjs" /></a> |
+| **Bancos de Dados** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgresql" /></a> |
+| **Infraestrutura & Cloud** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker" /></a> |
+| **Ferramentas & Utilitários** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,insomnia" /></a> |
+
+<hr />
+
+## 📬 Contato
 
 <div align="center">
   <a href="mailto:leaoemanuel4@gmail.com" target="_blank">
