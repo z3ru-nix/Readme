@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <h1>👋 Olá, eu sou o Emanuel Leão</h1>
   <p><strong>Desenvolvedor Backend | TypeScript • NestJS • SQL • Cloud</strong></p>
   
@@ -22,29 +22,26 @@ Também possuo vivência na integração de serviços em nuvem na **AWS** e cont
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Stack Tecnológica & Especialidades
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nestjs,express,prisma,mysql,postgresql,aws,docker,git" />
-  </a>
-</p>
+> ### 🟢 Core & Frameworks
+> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,nestjs,express,prisma" /></a>
+>
+> `TypeScript` `NestJS` `Express.js` `Prisma ORM` `Node.js`
 
-*   **Linguagens & Frameworks:** TypeScript, NestJS, Express, Prisma ORM
-*   **Bancos de Dados:** MySQL, PostgreSQL
-*   **Infraestrutura & Cloud:** AWS, Docker
-*   **Ferramentas:** Git & GitHub
+> ### 🛢️ Modelagem & Dados
+> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql" /></a>
+>
+> `PostgreSQL` `MySQL` `SQL Optimization` `Database Design`
 
-
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px" />
-  <img src="https://github-readme-top-langs.vercel.com/api/?username=SEU-USUARIO-DO-GITHUB&layout=compact&langs_count=7&theme=radial" alt="Linguagens mais usadas" height="180px" />
-</p>
+> ### ☁️ Infraestrutura & DevOps
+> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,git" /></a>
+>
+> `Amazon Web Services (AWS)` `Docker` `CI/CD` `Git & GitHub`
 
 ---
+
+
 
 <div align="center">
   <p>💡 <i>"O único modo de fazer um excelente trabalho é amar o que você faz."</i></p>
